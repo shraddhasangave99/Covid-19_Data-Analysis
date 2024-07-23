@@ -29,3 +29,4 @@ In this project, various SQL techniques such as joins, Common Table Expressions 
 
 ## 🔹Covid-19 Worldwide Visualization using Tableau
 
+![Screenshot (69)](https://github.com/user-attachments/assets/e370c9b5-3709-4c3d-bbe8-825c6acdf214)
