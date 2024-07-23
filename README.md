@@ -9,9 +9,9 @@ This project focuses on analyzing data related to the COVID-19 Worldwide pandemi
 
 1. Death Percentage: This query determines the percentage of deaths in relation to the total number of cases and deaths. It helps us understand how severe the virus is in different locations and time period.
 
-2. Percentage of Population Infected: This query calculates the proportion of the population that has been infected with COVID-19. By comparing the total number of reported cases to the population size, we can assess the virus's spread across different continents and regions
+2. Percentage of Population Infected: This query calculates the proportion of the population that has been infected with COVID-19. By comparing the total number of reported cases to the population size, we can assess the virus's spread across different continents and regions.
 
- 3.Population with Highest Infection Rate:This query determines which country has the highest COVID-19 infection rate relative to its population. By calculating the percentage of the population that has contracted the virus, it identifies the country with the most significant infection proportion.
+3. Population with Highest Infection Rate:This query determines which country has the highest COVID-19 infection rate relative to its population. By calculating the percentage of the population that has contracted the virus, it identifies the country with the most significant infection proportion.
 
 4. Highest Death Rate: This query presents the country with the highest COVID-19 mortality rate in relation to its population. By calculating the percentage of the population that has died from the virus, it pinpoints the location with the highest death rate.
 
