@@ -30,3 +30,15 @@ In this project, various SQL techniques such as joins, Common Table Expressions 
 ## 🔹Covid-19 Worldwide Visualization using Tableau
 
 ![Screenshot (69)](https://github.com/user-attachments/assets/e370c9b5-3709-4c3d-bbe8-825c6acdf214)
+
+### Insights from the Dashboard
+
+1. Global COVID-19 Impact: Over 775 million cases and 7 million deaths, with a death percentage of 0.91%, highlight the pandemic's severity.
+
+2. Continental Death Toll: North America leads in deaths, followed by South America, while Africa and Oceania have the lowest numbers.
+
+3. Vaccination Efforts: A world map shows significant vaccination efforts in countries like India, China and the U.S., with darker shades indicating higher rates.
+
+4. Infection Trends: Australia (45.24%) and the U.S. (30.58%) have the highest infection rates, while China's effective control measures keep its rate at 6.97%.
+   
+   This project leverages SQL and Tableau to analyze COVID-19 data, offering insights into regional impacts, vaccination effectiveness, and pandemic severity over time. These findings support informed decision-making, optimized resource allocation, and the creation of effective public health strategies.
