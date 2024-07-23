@@ -3,7 +3,7 @@ This project focuses on analyzing data related to the COVID-19 Worldwide pandemi
 
 🎯 Task:- As a Data Analyst, I have to conduct Exploratary Data Analysis to uncover insights and analyzing the Pandemic Situation which address the different aspects of Covid-19 data.
 
-🔗 The link for Covid-19 Dataset:[View Link](https://ourworldindata.org/covid-deaths)
+🔗 The link for Covid-19 Dataset: [View Link](https://ourworldindata.org/covid-deaths)
 
 ![Screenshot (67)_LE_auto_x2](https://github.com/user-attachments/assets/13080abc-ce20-498d-b39d-472bb5fba222)
 
